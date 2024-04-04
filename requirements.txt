@@ -4,5 +4,5 @@ altair
 plotly
 openai
 pandasai
-pickle
+pickle4
 plotly-express
