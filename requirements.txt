@@ -3,6 +3,6 @@ pandas
 altair
 plotly
 openai
-pandasai==1.4.10
+pandasai
 pickle
 plotly-express
