@@ -1,12 +1,10 @@
 import os
-
 import streamlit as st
 from pandasai import SmartDataframe
 from pandasai.llm import OpenAI
 import os
 import pickle
 from pathlib import Path
-
 import pandas as pd
 
 
