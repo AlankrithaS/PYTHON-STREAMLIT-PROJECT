@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+plotly
+openai
+pandasai
+pickle4
+plotly-express
